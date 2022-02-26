@@ -1,0 +1,25 @@
+.calc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.calc__button {
+    width: 200px;
+    height: 60px;
+    background-color: bisque;
+    border: 1px solid rgb(190, 152, 152);
+}
+
+.calc__result{
+    width: 200px;
+    height: 60px;
+    border: 1px solid rgb(190, 152, 152);
+}
+
+.calc__number{
+    width: 200px;
+    height: 30px;
+    border: 1px solid rgb(190, 152, 152);
+}
